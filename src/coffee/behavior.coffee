@@ -1,5 +1,12 @@
-# behavior plugin
-# it can be used as {$ref: "behavior!shiftRight"}
+# @license MIT License (c) copyright D Savenok
+
+# wire/behavior plugin
+ 
+# Licensed under the MIT License at:
+# http://www.opensource.org/licenses/mit-license.php
+
+# it can be used as {$ref: "behavior!doSomething"}
+
 define [
     'behavior/index'
 ], (behavior) ->
